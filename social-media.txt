@@ -1,0 +1,6 @@
+! Title: Tim's Website Blocklist
+! Description: Personal Vivaldi blocking rules
+
+||youtube.com^
+||facebook.com^
+||x.com^
