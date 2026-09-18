@@ -4,3 +4,4 @@
 ||youtube.com^
 ||facebook.com^
 ||x.com^
+||linkedin.com^
